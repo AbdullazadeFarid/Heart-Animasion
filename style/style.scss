@@ -1,0 +1,24 @@
+
+
+
+
+.around {
+  width: 100px;
+  height: 100px;
+ 
+  margin-top: 15%;
+  margin-bottom: 100px;
+  margin-left: 45%;
+  transition: all 0.75s ease-in-out;
+}
+
+
+.btn {
+  padding: 9px 32px;
+  margin-left: 45%;
+  cursor: pointer;
+}
+
+.scaled {
+  transform: scale(1.5);
+}
