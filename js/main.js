@@ -6,7 +6,7 @@ var around = document.querySelector(".around")
 
 
 
-btn.addEventListener('click', animate);
+btn.addEventListener('click', animation);
 
 
 
